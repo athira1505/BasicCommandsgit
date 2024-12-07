@@ -11,3 +11,10 @@
 >git pull [to take changes from remote repository to local workspace]
 
 >git push [to sent changes from local repository to remote repository]
+
+>git config --list [to list configuration]
+
+>git config --global user.name "username" [for user name]
+
+>git config --global user.email "emailID" [for email]
+
